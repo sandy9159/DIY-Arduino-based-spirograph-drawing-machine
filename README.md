@@ -79,3 +79,11 @@ This are the two arms of Spiro graph I have insterd a bearing in both of the arm
 
 I have printed this parts in PLA filament with 50% infill density.
 
+After done with mechanical installation I have installed the My PCB board at top side of the MDF board.
+
+![image](https://user-images.githubusercontent.com/19898602/126608657-908de20c-f018-4618-88dc-2996e6fce021.png)
+
+This are the two wooden extended arm made out of 20 x 6 mm wooden strip I made a pen holder and attached at the tip of
+
+the arm 
+
