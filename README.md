@@ -46,7 +46,17 @@ via IC 555 and we can modify this Square wave by rotating Potentiometer.
 
 Means we can control the speed of DC motor by rotating potentiometer
 
+ have designe this PCB and order it from [JLCPCB.com](https://jlcpcb.com/IAT)
 
+I always prefer [JLCPCB.com](https://jlcpcb.com/IAT) for my PCB needs, [JLCPCB.com](https://jlcpcb.com/IAT) have best deals for their customers
+$2 for 1-4 Layer PCBs, free SMT assembly monthly.
+
+
+and this is not it if you are new customer for [JLCPCB.com](https://jlcpcb.com/IAT) you will get 18$ coupon on your
+first registration to their site its limited period offer so what are waiting for go  and get your benefit. 
+
+
+[Click here to visit JLCPCB.com](https://jlcpcb.com/IAT)
 
 
 ![image](https://user-images.githubusercontent.com/19898602/126607872-1eab08bb-de53-4b6d-9465-152ea751fe99.png) ![image](https://user-images.githubusercontent.com/19898602/126607961-c8685b12-102d-4fa3-ba82-d684283a99c0.png)
@@ -83,7 +93,23 @@ After done with mechanical installation I have installed the My PCB board at top
 
 ![image](https://user-images.githubusercontent.com/19898602/126608657-908de20c-f018-4618-88dc-2996e6fce021.png)
 
-This are the two wooden extended arm made out of 20 x 6 mm wooden strip I made a pen holder and attached at the tip of
 
-the arm 
+
+![image](https://user-images.githubusercontent.com/19898602/126626289-336e2f98-1a58-4439-9cc2-535e7f387aa6.png)
+
+
+![image](https://user-images.githubusercontent.com/19898602/126626851-bf4741cb-c381-4776-a65b-ed83b21790cf.png)
+
+
+Then I place a white paper on the platform and inserted a pen in pen holder
+and we are ready to go.
+As soon all three stepper motors starts the machine will start to draw amazing figures on the paper
+we can change the partners by changing speed of individual motors
+In this way we can achieve many types of design
+
+![image](https://user-images.githubusercontent.com/19898602/126627149-be24a81a-55e3-402f-a873-5758e62a2ae1.png) ![image](https://user-images.githubusercontent.com/19898602/126627195-f49fada4-c961-4ddd-a6a5-6d5a37aa0d23.png) ![image](https://user-images.githubusercontent.com/19898602/126627239-5e066a3a-e593-4f75-8c56-c26cb2434607.png) ![image](https://user-images.githubusercontent.com/19898602/126627284-a9013e10-343b-4abe-aded-8fa661ad0541.png)
+
+
+![Sequence 01](https://user-images.githubusercontent.com/19898602/126628011-e87bfa29-55a5-45ee-9910-46d4e7f21082.gif)
+
 
