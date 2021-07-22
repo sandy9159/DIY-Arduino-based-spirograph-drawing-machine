@@ -46,13 +46,17 @@ via IC 555 and we can modify this Square wave by rotating Potentiometer.
 
 Means we can control the speed of DC motor by rotating potentiometer
 
-![image](https://user-images.githubusercontent.com/19898602/126605332-31fa30f8-7ea0-4d03-8b91-1d6628deddb3.png) ![image](https://user-images.githubusercontent.com/19898602/126605386-02b84010-0dde-4147-abbb-1a3cbd5bfb52.png)
+
+
+
+![image](https://user-images.githubusercontent.com/19898602/126607872-1eab08bb-de53-4b6d-9465-152ea751fe99.png) ![image](https://user-images.githubusercontent.com/19898602/126607961-c8685b12-102d-4fa3-ba82-d684283a99c0.png)
 
 
 
 
+![image](https://user-images.githubusercontent.com/19898602/126608152-4813f1b0-1105-47b9-b961-4ecb38479231.png) ![image](https://user-images.githubusercontent.com/19898602/126608097-7dba91d5-9c40-43f7-8d2e-f105f028c49e.png)
 
-![image](https://user-images.githubusercontent.com/19898602/126605508-e367020d-5c93-46d3-b9b3-31edee815a79.png) ![image](https://user-images.githubusercontent.com/19898602/126605526-e3c23d70-fb4c-40c4-b2d8-9e3c5b74f912.png)
+
 
 
 I have mark the measurments on the MDF board and cut it accordingly using my hand saw cutter.
