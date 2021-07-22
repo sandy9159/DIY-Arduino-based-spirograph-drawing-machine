@@ -73,5 +73,9 @@ I bolted it with M3 50 mm Screw
 Then I installed a mini 28BYJ-48 Stepper Motor this motor is used to rotated the base table  
 
 
+![image](https://user-images.githubusercontent.com/19898602/126608318-b598a8a6-39bf-4394-9035-741cd0b1a11d.png)
 
+This are the two arms of Spiro graph I have insterd a bearing in both of the arm and mounted it on the shaft of stepper motor
+
+I have printed this parts in PLA filament with 50% infill density.
 
